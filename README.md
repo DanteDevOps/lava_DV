@@ -28,9 +28,6 @@ different types of hardware architectures.
 Today Lava supports conventional CPUs and Intel's Loihi architecture, but
 its compiler and runtime are open to extension for other architectures.
 
-To learn more about the Lava Software Framework, please refer to the
-detailed documentation at http://lava-nc.org/.
-
 The Lava framework is licensed with permissive open source
 BSD 3 licensing to highly encourage community contributions.
 Lower level components in Lava, that map algorithms to different
@@ -50,13 +47,6 @@ to Intel and will be shared as extensions to eligible users.
 
 
 # Getting started
-The open-source Lava Software framework and its complementary algorithm
-libraries are hosted at [http://github.com/lava-nc](http://github.com/lava-nc) and
-the framework supports at minimimum CPU backends.
-
-Note that you should install the core Lava repository [lava](http://github.com/lava-nc/lava)
-before installing other Lava libraries such as [lava-optimization](http://github.com/lava-nc/lava-optimization)
-or [lava-dl](http://github.com/lava-nc/lava-dl).
 
 ## Installing Lava from source
 
